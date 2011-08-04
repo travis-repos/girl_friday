@@ -9,7 +9,7 @@ Have a task you want to get done sometime soon but don't want to do it yourself?
 
 girl\_friday is a Ruby library for performing asynchronous tasks.  Often times you don't want to block a web response by performing some task, like sending an email, so you can just use this gem to perform it in the background.  It works with any Ruby application, including Rails 3 applications.
 
-Did you know that girl_friday likes to party on Fridays?
+Did you know that girl_friday likes to party on Fridays? and Saturdays as well!
 
 
 Installation
